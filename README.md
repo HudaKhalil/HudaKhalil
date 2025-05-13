@@ -4,8 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hudakhalil&label=Profile%20views&color=0e75b6&style=flat" alt="hudakhalil" /> </p>
 
 **Master of Advanced Software Development (In Progress)**  
-University of [Technological University Dublin](https://www.tudublin.ie/), Dublin, Ireland
-*Expected Completion: **January, 2026**  
+University of [Technological University Dublin](https://www.tudublin.ie/) , Dublin, Ireland
+
+Expected Completion: **January, 2026**  
 Relevant coursework: UX Design, Software Architecture
 
 - 👨‍💻 All of my projects are available at [https://github.com/HudaKhalil?tab=repositories](https://github.com/HudaKhalil?tab=repositories)
