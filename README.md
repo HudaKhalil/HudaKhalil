@@ -12,7 +12,7 @@ Relevant coursework: UX Design, Software Architecture
 - 👨‍💻 All of my projects are available at [https://github.com/HudaKhalil?tab=repositories](https://github.com/HudaKhalil?tab=repositories)
 
 - 📫 How to reach me https://www.linkedin.com/in/hudakhalil/
-- <a target="_blank" href="https://icons8.com/icon/ydflV0J4pWsq/cv">CV</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
+- ![image](https://github.com/user-attachments/assets/73f40fd9-451a-4ff5-a42b-a66c1dac86aa)
 My CV https://bold.pro/my/huda-ibrahim-250516164010
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Rfx-giwCPReXKWde3Kk0T06aPaFmx9d2/view?usp=sharing](https://drive.google.com/file/d/1Rfx-giwCPReXKWde3Kk0T06aPaFmx9d2/view?usp=sharing)
