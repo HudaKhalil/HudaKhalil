@@ -5,9 +5,9 @@
 
 **Master of Advanced Software Development (In Progress)**  
 University of [Technological University Dublin](https://www.tudublin.ie/) , Dublin, Ireland
-Graduation Project: 
-Expected Completion: **January, 2026**  
-Relevant coursework: UX Design, Software Architecture
+- Graduation Project: 
+- Expected Completion: **January, 2026**  
+- Relevant coursework: UX Design, Software Architecture
 
 - 👨‍💻 All of my projects are available at [https://github.com/HudaKhalil?tab=repositories](https://github.com/HudaKhalil?tab=repositories)
 - <img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" alt="linkedin" width="20" height="20"/> How to reach me https://www.linkedin.com/in/hudakhalil/</a>
