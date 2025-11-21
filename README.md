@@ -5,7 +5,7 @@
 
 **Master of Advanced Software Development (In Progress)**  
 University of [Technological University Dublin](https://www.tudublin.ie/) , Dublin, Ireland
-- Graduation Project: https://github.com/KaranJoseph12/SafePath
+- Graduation Project: SafePath- [Safety Routing App](https://github.com/HudaKhalil/SafePath_Deploy)
 - Expected Completion: **January, 2026**  
 - Relevant coursework: UX Design, Software Architecture
 
