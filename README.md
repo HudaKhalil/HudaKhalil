@@ -1,23 +1,74 @@
 <h1 align="center">Hi 👋, I'm Huda Ibrahim</h1>
-<h3 align="center">A Passionate Software Designer</h3>
+<h3 align="center">UX-minded Software Designer & Full-Stack Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hudakhalil&label=Profile%20views&color=0e75b6&style=flat" alt="hudakhalil" /> </p>
+<p align="center">
+  🎓 MSc Advanced Software Development (in progress) @ Technological University Dublin, Ireland  
+  <br/>
+  🎯 Interested in UX design, safety-first routing apps, and real-time web experiences
+</p>
 
-**Master of Advanced Software Development (In Progress)**  
-University of [Technological University Dublin](https://www.tudublin.ie/) , Dublin, Ireland
-- Graduation Project:
-  - Repo: [SafePath- Safety Routing App](https://github.com/HudaKhalil/SafePath_Deploy)
-  - Live APP: [SafePath](https://safepath-deploy.vercel.app)
-- Expected Completion: **January, 2026**  
-- Relevant coursework: UX Design, Software Architecture
+---
 
-- 👨‍💻 All of my projects are available at [https://github.com/HudaKhalil?tab=repositories](https://github.com/HudaKhalil?tab=repositories)
-- <img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" alt="linkedin" width="20" height="20"/> How to reach me https://www.linkedin.com/in/hudakhalil/</a>
-- <img src="https://github.com/user-attachments/assets/73f40fd9-451a-4ff5-a42b-a66c1dac86aa" alt="CV" width="20" height="20"/>My CV https://bold.pro/my/huda-ibrahim-250516164010 </a>
+## 🔭 What I’m Working On
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://emberjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ember/ember-original-wordmark.svg" alt="ember" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+### SafePath – Safety Routing App (MSc Graduation Project)
+- 🚶‍♀️ Safety-first web app for walkers & cyclists (routing + hazard reporting + “find buddy”)
+- 🧩 Stack: Next.js / React, Node.js, PostgreSQL/PostGIS, real-time updates
+- 🎓 Expected completion: **January 2026**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hudakhalil&show_icons=true&title_color=db48bb&locale=en&layout=compact" alt="hudakhalil" /></p>
+> All my code is public – you can explore the project and other experiments in my repos below.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hudakhalil&show_icons=true&locale=en" alt="hudakhalil" /></p>
+---
+
+## 📚 Education
+
+**MSc – Advanced Software Development** (in progress)  
+*Technological University Dublin – Dublin, Ireland*  
+
+**Relevant coursework:**
+- UX Design & Human–Computer Interaction
+- Software Architecture & Design
+- Full-Stack Web Development
+
+---
+
+## 🧰 Languages & Tools
+
+**Languages**
+- Java, JavaScript, Python, SQL
+
+**Frontend**
+- React, React Native, HTML5, CSS3, Tailwind CSS, Bootstrap, Ember
+
+**Backend**
+- Node.js, Flask
+
+**Databases**
+- PostgreSQL, MySQL, Oracle
+
+**DevOps & Tools**
+- Git, Docker, Postman, Webpack, Babel
+
+**Design**
+- Adobe Photoshop, UX wireframing & prototyping
+
+---
+
+## 🌐 Find Me
+
+- 💻 GitHub – all my projects:  
+  👉 [github.com/HudaKhalil?tab=repositories](https://github.com/HudaKhalil?tab=repositories)
+
+- 💼 LinkedIn – let’s connect:  
+  👉 [linkedin.com/in/hudakhalil](https://www.linkedin.com/in/hudakhalil/)
+
+- 📄 CV – detailed experience & skills:  
+  👉 [My CV on Bold](https://bold.pro/my/huda-ibrahim-250516164010)
+
+---
+
+## ✨ A Bit More About Me
+
+- 🔍 I love turning messy real-world problems (like feeling unsafe walking home) into clear UX flows and working software.
+- 🧪 Comfortable working end-to-end: research → design → implementation → testing.
+- 🤝 Open to collaborations on UX-focused web apps, mapping/routing tools, and safety / accessibility projects.
