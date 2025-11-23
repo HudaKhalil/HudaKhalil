@@ -7,7 +7,7 @@
 University of [Technological University Dublin](https://www.tudublin.ie/) , Dublin, Ireland
 - Graduation Project:
   - Repo: [SafePath- Safety Routing App](https://github.com/HudaKhalil/SafePath_Deploy)
-  - Live APP: [SafePath - Hosted](https://safepath-deploy.vercel.app)
+  - Live APP: [SafePath](https://safepath-deploy.vercel.app)
 - Expected Completion: **January, 2026**  
 - Relevant coursework: UX Design, Software Architecture
 
