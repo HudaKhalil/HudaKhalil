@@ -32,11 +32,11 @@ A safety-first routing app for walkers & cyclists, combining:
 - 👥 “Find Buddy” – coordinate with nearby users  
 - 📡 Real-time updates
 
-<a href="https://your-deployed-url.com" target="_blank">
-  <img src="https://github.com/KaranJoseph12/SafePath/blob/main/src/frontend/public/logo.png" alt="SafePath App" height= "80" width="80" />
-</a>
 
-For the SafePath hosted version, [click here](https://safepath-deploy.vercel.app/).
+
+For the SafePath hosted version, click the logo [<a href="https://your-deployed-url.com" target="_blank">
+  <img src="https://github.com/KaranJoseph12/SafePath/blob/main/src/frontend/public/logo.png" alt="SafePath App" height= "50" width="50" />
+</a>](https://safepath-deploy.vercel.app/).
 
 **Tech stack**
 
