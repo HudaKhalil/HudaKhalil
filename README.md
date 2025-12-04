@@ -31,12 +31,7 @@ A safety-first routing app for walkers & cyclists, combining:
 - ⚠️ Hazard reporting & verification  
 - 👥 “Find Buddy” – coordinate with nearby users  
 - 📡 Real-time updates
-
-
-
-For the SafePath hosted version, click -> <a href="https://safepath-deploy.vercel.app/" target="_blank">
-  <img src="https://github.com/KaranJoseph12/SafePath/blob/main/src/frontend/public/logo.png" alt="SafePath App" height= "50" width="50" />
-</a>
+- 👉 Try the live app: [Open SafePath](https://safepath-deploy.vercel.app)
 
 **Tech stack**
 
