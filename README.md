@@ -33,7 +33,7 @@ A safety-first routing app for walkers & cyclists, combining:
 - 📡 Real-time updates
 
 
-[![SafePath](https://github.com/KaranJoseph12/SafePath/blob/main/src/frontend/public/logo.png)](https://safepath-deploy.vercel.app/)
+[![SafePath](https://github.com/KaranJoseph12/SafePath/blob/main/src/frontend/public/logo.png =250x250)](https://safepath-deploy.vercel.app/)
 **Tech stack**
 
 - Frontend: Next.js / React, Tailwind CSS  
