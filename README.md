@@ -34,9 +34,9 @@ A safety-first routing app for walkers & cyclists, combining:
 
 
 
-For the SafePath hosted version, click the logo [<a href="https://your-deployed-url.com" target="_blank">
+For the SafePath hosted version, click the logo [<a href="https://safepath-deploy.vercel.app/" target="_blank">
   <img src="https://github.com/KaranJoseph12/SafePath/blob/main/src/frontend/public/logo.png" alt="SafePath App" height= "50" width="50" />
-</a>](https://safepath-deploy.vercel.app/).
+</a>]
 
 **Tech stack**
 
